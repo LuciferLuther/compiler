@@ -19,5 +19,7 @@ int main(int argc, char* argv[]){
         fm.filer.open("../parsar.sadawi");
         fm.filer<<"sad";
         fm.filer.close();
+
+        
     }
 } 
